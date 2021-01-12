@@ -1,0 +1,25 @@
+{
+  "name": "chat-system",
+  "version": "1.0.0",
+  "description": "My attempt on a messaging system",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPT9841/Chat-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPT9841/Chat-System/issues"
+  },
+  "homepage": "https://github.com/CPT9841/Chat-System#readme",
+  "dependencies": {
+    "socket.io": "^3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
